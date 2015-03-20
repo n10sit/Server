@@ -1,0 +1,50 @@
+iron set - 50
+steel set - 75
+black set - 100
+mithril set - 150
+white set - 200
+adamant set - 250
+rune set - 400
+rock-shell set- 400 - 6128
+void set - 500
+penance set - 750
+rogue set - 1000
+dragon set - 1500
+torags set - 2500
+dharoks set - 2750
+guthans set - 2750
+veracs set - 2750
+bandos set - 4000
+gilded set - 8000
+3rd age set - 10000
+
+leather set - 50
+snakeskin set - 100 - 6326 (hat), 6330 (vbrace) - 30/30
+green dh set - 250
+spined set - 350 - 50/50
+void range set - 450
+blue dh set - 500
+red dh set - 650
+black dh set - 850
+zammy/guth/sara dh set - 1000 - 60/60/60
+karils set - 2000
+armadyl set - 3500 - 70/70
+3rd age range set - 7500
+lvl 1 arrows set - 5
+lvl 2 arrows set - 25
+bow set - 25
+
+blue robe set - 25
+staff set - 25
+mystic set black - 100
+mystic set white - 100
+mystic set blue - 100
+splitbark set - 250 - 3393
+enchanted set - 325 - 45/45
+void mage set - 450
+skeletal set - 500 - 50/50
+infinity set - 1000
+ahrims set - 2000
+3rd age mage set - 6000
+lvl 1 runes set - 5
+lvl 2 runes set - 25

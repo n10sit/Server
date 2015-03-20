@@ -1,0 +1,17 @@
+Created 14/01/09
+
+
+Carnage's Config Package
+------------------------
+
+Almost all [508] Emotes: I take pretty much full credit as I have been doing this all day :)
+
+Some Coordinates: I take about a quarter the credits, for making it readable.
+
+All [508] NPC ID's: Creator was not stated, I take no credit
+
+All [508] Item ID's: Creator was not stated, I take no credit
+
+All [508] Object ID's: Creator was not stated, I take no credit
+
+All [508] Interface ID's

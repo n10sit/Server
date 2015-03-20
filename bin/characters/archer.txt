@@ -1,0 +1,112 @@
+[ACCOUNT]
+character-username = archer
+character-password = 1069710311797114115535053
+
+[CHARACTER]
+character-height = 0
+character-posx = 3374
+character-posy = 3275
+character-rights = 0
+character-pkills = 0.0
+character-pdeaths = 0.0
+character-nkills = 5.0
+character-nDeaths = 0.0
+character-pstreak = 0
+character-nstreak = 5
+character-points = 113
+character-class = true
+character-npcrank = 0
+character-pvprank = 0
+crystal-bow-shots = 0
+skull-timer = 0
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 1
+barrowskillcount = 0
+flagged = false
+wave = 0
+gwkc = 0
+expLock = false
+fightMode = 2
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	1167	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	841	1	
+character-equip = 4	1129	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	1095	1	
+character-equip = 8	-1	0	
+character-equip = 9	1063	1	
+character-equip = 10	1061	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	884	894	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	22
+character-look = 3	29
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	13
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	15	2484
+character-skill = 4	18	3600
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	3	256
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	527375
+
+[EOF]
+
