@@ -110,6 +110,8 @@ public class PlayerAssistant{
 		}
 		return -1;
 	}
+	
+	
 
 	/**
 	 * MulitCombat icon
