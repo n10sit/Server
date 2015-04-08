@@ -37,6 +37,8 @@ public class Commands implements PacketType {
 		if (playerCommand.equals("gro")) {
 			NPCRanks.getRandomOpponents(c);
 		}
+		
+		
 
 		if (playerCommand.startsWith("yell")) {
                 	String rank = "";

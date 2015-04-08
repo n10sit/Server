@@ -5,23 +5,15 @@ import java.util.*;
 import server.model.players.*;
 
 @SuppressWarnings("unused")
-public class BobsAxes {
+public class BobsAxes extends Company {
 	
-	private Integer id;
-	private Integer value;
-	private Integer shares;
-	private Double growthRate;
-  	private String name;
-  	private Map<Player, Integer> investors;
-	
-  	public BobsAxes() {}
-	public BobsAxes(int id, int value, int shares, double growthRate, String name, Map<Player, Integer> investors) {
-		this.id = id;
-		this.value = value;
-		this.shares = shares;
-		this.growthRate = growthRate;
-		this.name = name;
-		this.investors = investors;
+	public BobsAxes() {
+		this.id = 1;
+		this.value = 2000000;
+		this.shares = 60000;
+		this.growthRate = 0.02;
+		this.name = "Bob's Axes";
+		this.investors.equals(null);
 	}
 
 }
