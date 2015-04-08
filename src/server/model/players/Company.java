@@ -65,7 +65,7 @@ public class Company {
   		} catch (Exception e) {
   			e.printStackTrace();
   		}
-  		return false;
+  		return true;
   	}
   	
   	/*public static void setList() {
