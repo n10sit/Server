@@ -4,12 +4,24 @@ import java.util.*;
 
 import server.model.players.*;
 
+@SuppressWarnings("unused")
 public class BobsAxes {
 	
-	public BobsAxes() {
-		Company.companies.add(new Company(2, 350000000, 700000, 0.02, "Bob's Axes"));
-	}
+	private Integer id;
+	private Integer value;
+	private Integer shares;
+	private Double growthRate;
+  	private String name;
+  	private Map<Player, Integer> investors;
 	
-	public Map<String, Integer> investors;
+  	public BobsAxes() {}
+	public BobsAxes(int id, int value, int shares, double growthRate, String name, Map<Player, Integer> investors) {
+		this.id = id;
+		this.value = value;
+		this.shares = shares;
+		this.growthRate = growthRate;
+		this.name = name;
+		this.investors = investors;
+	}
 
 }
