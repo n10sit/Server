@@ -23,7 +23,6 @@ public class Company {
     		this.growthRate = growthRate;
     		this.name = name;
     		//this.investors = investors;
-    		
   	}
   	//4*3=12
   	//12/3=4
